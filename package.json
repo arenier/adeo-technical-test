@@ -1,0 +1,11 @@
+{
+  "name": "adeo-technical-test",
+  "description": "Adeo technical test, filter and count animals",
+  "main": "main.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
